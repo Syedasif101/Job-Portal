@@ -1,6 +1,6 @@
-# React Jobs Project (YouTube)
+# React Jobs Project
 
-This is the jobs listing project from the [YouTube crash course](https://youtu.be/LDB4uaJ87e0).
+This is the jobs listing project
 
 <img src="public/screen.png" />
 
@@ -30,14 +30,3 @@ React will run on http://localhost:3000
 npm run dev
 ```
 
-### Build for Production
-
-```bash
-npm run build
-```
-
-### Preview Production Build
-
-```bash
-npm run preview
-```
