@@ -83,6 +83,20 @@
         "contactEmail": "contact@ipsumlorem.com",
         "contactPhone": "555-555-5555"
       }
+    },
+    {
+      "id": "81ac",
+      "title": "Software Developer",
+      "type": "Remote",
+      "location": "Banglore",
+      "description": "NA",
+      "salary": "$50K - 60K",
+      "company": {
+        "name": "Google",
+        "description": "NA",
+        "contactEmail": "saasif51120@gmail.com",
+        "contactPhone": "09596283631"
+      }
     }
   ]
 }
